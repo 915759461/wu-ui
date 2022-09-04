@@ -1,8 +1,8 @@
 {
-  "name": "@y-ui/utils",
+  "name": "@wu-ui/utils",
   "version": "1.0.0",
   "description": "",
-  "main": "index.ts",
+  "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },

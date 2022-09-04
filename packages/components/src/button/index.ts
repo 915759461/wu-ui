@@ -1,6 +1,3 @@
-// import Button from './button.vue'
-
-// export default Button
 
 import button from "./button.vue";
 import type { App, Plugin } from "vue";

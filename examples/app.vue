@@ -8,5 +8,5 @@
 </template>
 
 <script lang="ts" setup>
-import { Button } from 'y-ui'
+import { Button } from 'wu-ui'
 </script>

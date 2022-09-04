@@ -1,24 +1,15 @@
 {
-  "name": "y-ui",
+  "name": "wu-ui",
   "version": "1.0.0",
   "description": "",
-  "main": "lib/index.js",
-  "module": "es/index.js",
+  "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
-    "build": "vite build"
+    "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "files": [
-    "es",
-    "lib"
-  ],
-  "keywords": [
-    "Y-Ui",
-    "vue3组件库"
-  ],
-  "author": "怡",
-  "license": "MIT",
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
   "dependencies": {
-    "@y-ui/utils": "workspace:^1.0.0"
+    "@wu-ui/utils": "workspace:^1.0.0"
   }
 }
