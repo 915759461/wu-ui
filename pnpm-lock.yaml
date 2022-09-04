@@ -20,15 +20,15 @@ importers:
 
   examples:
     specifiers:
-      wu-ui: workspace:^1.0.0
+      wqy-ui: workspace:^1.0.0
     dependencies:
-      wu-ui: link:../packages/components
+      wqy-ui: link:../packages/components
 
   packages/components:
     specifiers:
-      '@wu-ui/utils': workspace:^1.0.0
+      '@wqy-ui/utils': workspace:^1.0.0
     dependencies:
-      '@wu-ui/utils': link:../utils
+      '@wqy-ui/utils': link:../utils
 
   packages/utis:
     specifiers: {}
